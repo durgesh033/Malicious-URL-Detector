@@ -69,8 +69,8 @@ streamlit run app.py
 
 This project uses:
 
-TF-IDF Vectorize
-Random Forest Classifier
+    -TF-IDF Vectorizer
+    -Random Forest Classifier
 ---
 
 # ⚠️ Note
