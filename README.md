@@ -30,20 +30,6 @@ Because clicking random links on the internet has somehow become a global hobby.
 
 ---
 
-# 📂 Project Structure
-
-Malicious-URL-Detector/
-│
-├── app.py
-├── train_model.ipynb
-├── requirements.txt
-├── dataset.csv
-├── models/
-├── README.md
-└── .gitignore
-
----
-
 # ⚙️ How It Works
 
 1. User enters a URL
