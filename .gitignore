@@ -1,4 +1,2 @@
-models/model.pkl
-*.pkl
 *.csv
 __pycache__/
