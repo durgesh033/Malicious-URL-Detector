@@ -82,6 +82,6 @@ Large trained model files are not uploaded due to GitHub file size limits.
 
 This project is open-source and free to use.
 ---
-#👨‍💻 Author
+# 👨‍💻 Author
 
 Developed by Durgesh Kumar Rout
